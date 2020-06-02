@@ -1,4 +1,4 @@
-package main
+package slate
 
 type SlateItem struct {
 	Children []SlateItem `json:"children,omitempty"`

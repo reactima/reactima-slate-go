@@ -1,4 +1,4 @@
-package main
+package slate
 
 import (
 	"encoding/json"
